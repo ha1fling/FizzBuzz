@@ -3,11 +3,7 @@ N = 1
 for N in range(1, 101):
 
     def check_divisibility(dividend, divisor):
-        divisible = False
-        if dividend % divisor == 0:
-            divisible = True
-        return divisible
-
+        return dividend % divisor == 0
 
     if (check_divisibility(N, 3)) & (check_divisibility(N, 5)):
         print("FizzBuzz")
