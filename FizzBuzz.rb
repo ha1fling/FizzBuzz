@@ -16,6 +16,6 @@ def fizz_buzz(n, max)
     end
   end
 end
-fizz_buzz 1, 100
+fizz_buzz 0, 100
 
 
