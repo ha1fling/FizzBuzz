@@ -8,7 +8,7 @@ This repo will contain FizzBuzz code using the following languages:
 - [X] GoLang 
 - [X] Ruby
 - [X] Java
-- [ ] C# 
+- [X] C# 
 - [ ] PHP 
 - [ ] JS
 
