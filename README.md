@@ -1,6 +1,6 @@
 # FizzBuzz
 ## Coding challenge
-FizzBuzz is a common coding tasks used to test computational thinking and coding ability. I'm choosing to write these for fun as I havn't used some of these languages in over a year! 
+FizzBuzz is a common coding task used to test computational thinking and coding ability. I'm choosing to write these for fun as I havn't used some of these languages in over a year! 
 
 This repo will contain FizzBuzz code using the following languages:
 
