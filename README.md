@@ -7,7 +7,7 @@ This repo will contain FizzBuzz code using the following languages:
 - [X] Python 
 - [X] GoLang 
 - [X] Ruby
-- [ ] Java
+- [X] Java
 - [ ] C# 
 - [ ] PHP 
 - [ ] JS
