@@ -9,7 +9,7 @@ This repo will contain FizzBuzz code using the following languages:
 - [X] Ruby
 - [X] Java
 - [X] C# 
-- [ ] PHP 
+- [X] PHP 
 - [ ] JS
 
 ### The task:
