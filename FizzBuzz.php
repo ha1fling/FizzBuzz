@@ -9,8 +9,9 @@ class FizzBuzz {
                 echo("Fizz");
             } elseif ($this->checkDivisibility($n, 5)) {
                 echo("Buzz");
+            } else {
+                echo $n;
             }
-            echo $n;
         }
     }
     public function checkDivisibility($dividend, $divisor)
